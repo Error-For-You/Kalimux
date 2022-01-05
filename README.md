@@ -96,3 +96,7 @@ __START__ :
 
 - From this option you can start installing kali linux in your android.
 
+## WARNING : 
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+
