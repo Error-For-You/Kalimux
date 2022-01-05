@@ -42,7 +42,7 @@
 
 * `pip install lolcat`
 
-* `git clone https://github.com/noob-hackers/kalimux`
+* `git clone https://github.com/Error-For-You/Kalimux`
 
 * `cd $HOME`
 
