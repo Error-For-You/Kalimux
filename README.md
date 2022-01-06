@@ -28,6 +28,10 @@
 
 * [+] Easy for Beginners !
 
+## 🤬😏
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-For-You&langs_count=8)](https://github.com/Error-For-You/github-readme-stats)
+
 ## INSTALLATION [Termux] :
 
 * `apt-get update -y`
